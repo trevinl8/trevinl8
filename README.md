@@ -4,10 +4,7 @@ I am a web developer who likes to design and build web-based applications using 
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-trevinl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevinl/)](https://www.linkedin.com/in/trevinl/)
-  [![Medium Badge](https://img.shields.io/badge/-@anupama.pathirage-03a57a?style=flat-square&label&logo=medium&link=https://medium.com/@anupama.pathirage/)](https://medium.com/@anupama.pathirage/)
-  [![Medium Badge](https://img.shields.io/twitter/follow/anupama_pathira?label=twitter&style=flat-square&logo=twitter&link=https://twitter.com/anupama_pathira)](https://twitter.com/anupama_pathira)
-  [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCMfepqZa2xMmk00eq8uHICg?style=flat-square&label&logo=youtube&link=https://www.youtube.com/channel/UCMfepqZa2xMmk00eq8uHICg)]( https://www.youtube.com/channel/UCMfepqZa2xMmk00eq8uHICg)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&style=flat-square&logoColor=white&link=https://www.instagram.com/anupama.pathirage/)](https://www.instagram.com/anupama.pathirage/)
+  [![Medium Badge](https://img.shields.io/twitter/follow/neutro_08?label=twitter&style=flat-square&logo=twitter&link=https://twitter.com/neutro_08)](https://twitter.com/neutro_08)
   
 </div>
 <br>
